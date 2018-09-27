@@ -1,0 +1,6 @@
+id~entifier
++ - * / = < > [ ] . , : ; ^ ( ) <> <= >= := ..
+1234
+123.4
+'character''s string'
+(* comment *)
